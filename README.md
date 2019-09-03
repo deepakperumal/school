@@ -1,7 +1,4 @@
- This is a school application for kindegarten children
- 
- 
-Developers -
+ This is a school application for kindegarten children developed by
  
  Deepak A
  
