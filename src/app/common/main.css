@@ -1,0 +1,103 @@
+.header {
+	padding-bottom: 6px;
+	padding-top: 2px;
+	background-color: #ef5874;
+	color: white;
+	font-size: 13px;
+}
+
+#navbarSupportedContent {
+	position: relative;
+	right: 18%;
+}
+
+.logo-img {
+	position: relative;
+	left: 162px;
+}
+
+.headline {
+	z-index: 1;
+  background: white;
+
+}
+.offer-tabs
+{
+  background: url('../../assets/images/bg_tod1.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+.insta-img {
+	width: 12.4%;
+	height: 176px;
+}
+
+.nav-link {
+	font-size: 12px !important;
+	;
+	font-family: 'Quicksand', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+	font-weight: 700;
+	color: #745656 !important;
+}
+.active1 {
+	color: white !important;
+	background: #e65e79;
+	padding: 11px 7px 11px 7px;
+	text-align: center;
+}
+
+.img-desc {
+	font-size: 36px;
+	font-weight: 600;
+	letter-spacing: -0.9px;
+}
+.footer {
+  background-color: #413737;
+  color: white;
+}
+.footer-link-head {
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.footer-sub-txt {
+  font-size: 14px;
+  padding-bottom: 8px;
+  letter-spacing: 1px;
+  color: #9c8481;
+}
+
+.footer-ico {
+  color: #e65e79;
+  padding-right: 14px;
+}
+.copy-right-txt {
+  color: #8b7573;
+}
+
+.footer-logo {
+  width: 145px;
+  height: 51px;
+  margin-top: 15px;
+}
+.copyright {
+  width: 32%;
+  font-size: 13px;
+  padding-left: 18px;
+  color: #00bfb1;
+}
+@media (max-width: 768px) {
+
+	.insta-img {
+		width: 167px !important;
+	}
+
+
+	#navbarSupportedContent,
+	.logo-img,
+	.pull-right,
+  .info-wrp,
+  .tab-pull-right  {
+		position: unset;
+	}
+
+}
