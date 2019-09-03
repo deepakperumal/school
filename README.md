@@ -1,4 +1,4 @@
- This is a school application for kindegarden children
+ This is a school application for kindegarten children
  
  
  Auther
