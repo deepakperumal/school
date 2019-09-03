@@ -1,3 +1,10 @@
-ng new app //create app
-ng sereve -o //opens app in browser
-"# e-commerce" 
+ This is a school application for kindegarden children
+ 
+ 
+ Auther
+ 
+ Deepak A
+ Praharsh Tarnath
+ 
+ 
+ Demo URL : https://schoolpre.herokuapp.com
