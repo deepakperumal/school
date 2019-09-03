@@ -1,7 +1,7 @@
  This is a school application for kindegarten children
  
  
- Auther
+Developers:
  
  Deepak A
  
