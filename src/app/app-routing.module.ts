@@ -5,6 +5,7 @@ import {ClassComponent } from './view/class.component'
 import{EventComponent} from './view/event.component'
 import {AboutComponent} from './view/about.component'
 import{ContactComponent}  from './view/contact.component'
+import{BlogComponent}  from './view/blog.component'
 import { from } from 'rxjs';
 const routes: Routes = [
 
@@ -12,7 +13,8 @@ const routes: Routes = [
   {path:'class',component:ClassComponent,data: {title: 'Class'}},
   {path:'event',component:EventComponent,data: {title: 'Events'}},
   {path:'about',component:AboutComponent,data: {title: 'About'}},
-  {path:'contact',component:ContactComponent,data: {title: 'Contact'}}
+  {path:'contact',component:ContactComponent,data: {title: 'Contact'}},
+  {path:'blog',component:BlogComponent,data: {title: 'Blog'}}
 
 
 
