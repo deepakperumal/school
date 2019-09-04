@@ -23,6 +23,10 @@ In CMD type
 ## Execution
 ```ng serve -o```
 
+# Live Demo
+
+https://schoolpre.herokuapp.com
+
 ## Auther
 Deepak A
 
