@@ -5,35 +5,15 @@
 ## Angular Version
 
  7.3.2
-
-## Loading PHPMailer
  
-The single biggest change will be in the way that you load PHPMailer. In earlier versions you may have done this:
+## Node Version
 
-```php
-require 'PHPMailerAutoload.php';
-```
+ 6.1
+ 
+##  Installation
 
-or
-
-```php
-require 'class.phpmailer.php';
-require 'class.smtp.php';
-```
-
-We recommend that you load PHPMailer via composer, using its standard autoloader, which you probably won't need to load if you're using it already, but in case you're not, you will need to do this instead:
-
-```php
-require 'vendor/autoload.php';
-```
-
-If you're not using composer, you can still load the classes manually, depending on what you're using:
-
-```php
-require 'src/PHPMailer.php';
-require 'src/SMTP.php';
-require 'src/Exception.php';
-```
+```git clone <project url>```
+ 
 
 ## Namespace
 PHPMailer 6 uses a [namespace](http://php.net/manual/en/language.namespaces.rationale.php) of `PHPMailer\PHPMailer`, because it's the PHPMailer project within the PHPMailer organisation. You **must** import (with a `use` statement) classes you're using explicitly into your own namespace, or reference them absolutely in the global namespace - all the examples do this. This means the fully-qualified name of the main PHPMailer class is `PHPMailer\PHPMailer\PHPMailer`, which is a bit of a mouthful, but there's no harm in it! If you are using other PHPMailer classes explicitly (such as `SMTP` or `Exception`), you will need to import them into your namespace too.
