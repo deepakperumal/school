@@ -85,6 +85,13 @@
   padding-left: 18px;
   color: #00bfb1;
 }
+.logo-img  {
+	position: relative;
+	left: 162px;
+	width: 94px;
+	height: 46px;
+  }
+  
 @media (max-width: 768px) {
 
 	.insta-img {
