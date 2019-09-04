@@ -92,6 +92,9 @@
 	height: 46px;
   }
   
+ .fa-facebook  {
+    color: white;
+}  
 @media (max-width: 768px) {
 
 	.insta-img {
