@@ -16,7 +16,9 @@ The project is done for kindergarten school  ```chisel``` . Its a free open sour
 In CMD type
 
 ```git clone https://github.com/deepakperumal/school.git```
+
 ```cd school```
+
 ```npm install```
  
 
