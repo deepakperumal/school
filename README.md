@@ -1,12 +1,10 @@
-# Upgrading from PHPMailer 5.2 to 6.0
+# Chisel
 
-PHPMailer 6.0 is a major update, breaking backward compatibility.
+ 
 
-If you're in doubt about how you should be using PHPMailer 6, take a look at the examples as they have all been updated to work in a PHPMailer 6.0 style.
+## Angular Version
 
-## PHP Version
-
-PHPMailer 6.0 requires PHP 5.5 or later, and is fully compatible with PHP 7.0. PHPMailer 5.2 supported PHP 5.0 and upwards, so if you need to run on a legacy PHP version, see the [PHPMailer 5.2-stable branch on Github](https://github.com/PHPMailer/PHPMailer/tree/5.2-stable).
+ 7.3.2
 
 ## Loading PHPMailer
  
