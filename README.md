@@ -1,5 +1,5 @@
 # Chisel
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/deepakperumal/school/blob/master/src/assets/images/Capture.PNG)
 The project is done for kindergarten school  ```chisel``` . Its a free open source angular template
  
 
