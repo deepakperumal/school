@@ -29,9 +29,4 @@ In CMD type
 
 https://schoolpre.herokuapp.com
 
-## Auther
-Manoj
-
-Deepak A
-
-Praharsh Tarnath
+ 
